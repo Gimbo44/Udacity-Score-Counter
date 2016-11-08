@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFL Score Counter</string>
+    <string name="touch_down">Touch Down</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="conversion">2pt Conversion</string>
+    <string name="incomplete">Incomplete</string>
+</resources>
