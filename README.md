@@ -27,7 +27,11 @@ Best Practices | The code adheres to all of the following best practices: <ul><l
 ### Functionality ###
 CRITERIA | MEETS SPECIFICATIONS
 ---------|-----------------------
-
+Errors | The code runs without errors.
+Score Button Function | Each score button updates the score TextView in its column by adding the correct number of points.
+Reset Button Function | The reset button resets the scores on both of the score TextViews.
 ### Code Readability ###
 CRITERIA | MEETS SPECIFICATIONS
 ---------|-----------------------
+Naming Conventions | "Any classes are named after the object they represent.All variables are named by their intended contents. All methods are named by their intended effect or in the style required by a callback interface."
+Code Style | "There are no unnecessary blank lines.One variable is declared per declaration line. The code within a method is indented with respect to the method declaration line."
